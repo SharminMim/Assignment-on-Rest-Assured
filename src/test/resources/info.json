@@ -1,0 +1,27 @@
+[
+
+  {
+    "createdUserPassword": "1234",
+    "createdUserEmail": "francisco.schuppe@yahoo.com",
+    "createdUserName": "Gilbert Strosin",
+    "createdUserRole": "Customer",
+    "createdUserPhone": "01354485598",
+    "createdUserNid": "559305046"
+  },
+  {
+    "createdUser2Password": "1234",
+    "createdUser2Role": "Customer",
+    "createdUser2Email": "thanh.reilly@hotmail.com",
+    "createdUser2Nid": "215969976",
+    "createdUser2Name": "Aaron Koepp PhD",
+    "createdUser2Phone": "01354760347"
+  },
+  {
+    "createdAgentEmail": "angelo.anderson@gmail.com",
+    "createdAgentName": "Wilda Watsica",
+    "createdAgentPassword": "1234",
+    "createdAgentPhone": "01354382642",
+    "createdAgentRole": "Agent",
+    "createdAgentNid": "302456757"
+  }
+]
